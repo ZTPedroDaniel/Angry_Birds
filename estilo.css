@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: var();
+    background-color: var(--botao-secundario);
     color: var(--cor-texto-principal);
 }
 
