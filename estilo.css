@@ -6,7 +6,7 @@
 .principal{
     background-image: url(./img/angrybirds1.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .container{
