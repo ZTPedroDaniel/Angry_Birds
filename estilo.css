@@ -27,4 +27,7 @@ body{
 
 .container--botao{
     background-color: var(--botao-principal);
+    color: var(--botao-secundario);
+    padding: 1em;
+    border-radius: 10px;
 }
