@@ -29,5 +29,6 @@ body{
     background-color: var(--botao-principal);
     color: var(--botao-secundario);
     padding: 1em;
-    border-radius: 10px;
+    border-radius: 5px;
+    text-decoration: none;
 }
