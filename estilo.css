@@ -13,6 +13,7 @@
 body{
     background-color: var(--botao-secundario);
     color: var(--cor-texto-principal);
+    font-size: 16px;
 }
 
 .principal{
@@ -35,9 +36,14 @@ body{
     padding: 1em;
     border-radius: 5px;
     text-decoration: none;
+    display: block;
 }
 
 .botao--secundario{
     background-color: transparent;
     border: 2px solid var(--cor-texto-principal)
+}
+
+.container--caixa{
+    margin: 0 6em;
 }
