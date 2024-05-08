@@ -42,7 +42,7 @@ body{
 
 .botao--secundario{
     background-color: transparent;
-    border: 2px solid var(--cor-texto-principal)
+    border: 2px solid var(--cor-texto-principal);
 }
 
 .container--caixa{
