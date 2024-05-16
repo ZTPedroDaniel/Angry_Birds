@@ -53,3 +53,7 @@ body{
     width: 100%;
 }
 
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
